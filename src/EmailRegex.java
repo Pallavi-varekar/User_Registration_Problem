@@ -30,7 +30,9 @@ applying the pattern to check whether the email matches the pattern or not
         Pattern pattern = Pattern.compile(emailRegex);
 
         for (int i = 0; i < arrayList.size(); i++) {
-         /*
+
+
+            /*
          using for-loop checking every email whether it matches the defined pattern or not
           */
 
